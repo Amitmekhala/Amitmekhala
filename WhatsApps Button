@@ -1,0 +1,72 @@
+<style>
+a.custom-whatsapp-button {
+    display: flex;
+    width: 50%;
+    margin: 15px auto;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    background-color: #E67750;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+a.custom-whatsapp-button div.image-holder {
+    width: 30%;
+    text-align: right;
+    margin-right: 10px;
+}
+
+a.custom-whatsapp-button div.image-holder img {
+    width: 30px;
+    vertical-align: middle;
+}
+
+a.custom-whatsapp-button div.text-holder {
+    width: 70%;
+    color: white;
+}
+
+a.custom-whatsapp-button div.text-holder p {
+    text-align: left;
+    margin: 0;
+}
+
+a.custom-whatsapp-button div.text-holder p.button-text {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 600px) {
+    a.custom-whatsapp-button {
+        width: 85%;
+        padding: 10px;
+    }
+
+    a.custom-whatsapp-button div.image-holder {
+        width: 15%;
+        text-align: center;
+    }
+
+    a.custom-whatsapp-button div.image-holder img {
+        width: 25px;
+    }
+
+    a.custom-whatsapp-button div.text-holder p.button-text {
+        font-size: 16px;
+    }
+}
+</style>
+
+<!-- Button HTML -->
+<a class="custom-whatsapp-button" href="https://chat.whatsapp.com/IFyzUVJGA2E31tqWe0fGmX" target="_blank">
+    <div class="image-holder">
+        <img src="https://media.swipepages.com/2023/1/63ca2e9145015f00108f727a/untitled_design_57-300.png" alt="WhatsApp Icon" />
+    </div>
+    <div class="text-holder">
+        <p class="button-text">Join WhatsApp Group</p>
+    </div>
+</a>
