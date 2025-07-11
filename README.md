@@ -1,12 +1,5 @@
 <div style="color:blue;">👋 Hi, I’m @Amitmekhala</div>
 
-- 👀 I’m interested in web design, automation technologies, and digital marketing.
-- 🌱 I’m currently learning how to integrate automation with marketing strategies to enhance operational efficiency.
-- 💞️ I’m looking to collaborate on innovative web design projects and automation tools.
-- 📫 How to reach me: [Your preferred contact info, like email or LinkedIn]
-
----
-
 ## About Me
 
 I’m a **Web Designer** and **Automation Executive** at **Growthify Media**, with over two years of experience in web design. I specialize in creating visually appealing, user-friendly websites that align with clients' brand and business goals.
